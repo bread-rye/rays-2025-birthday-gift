@@ -1,0 +1,33 @@
+{
+  "name": "rays_gifts",
+  "version": "1.0.0",
+  "description": "Birthday Gift for Ray, 2025 Edition",
+  "keywords": [
+    "Birthday",
+    "Gift",
+    "Semi-Personal",
+    "2025"
+  ],
+  "homepage": "https://github.com/bread-rye/rays-2025-birthday-gift#readme",
+  "bugs": {
+    "url": "https://github.com/bread-rye/rays-2025-birthday-gift/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bread-rye/rays-2025-birthday-gift.git"
+  },
+  "license": "ISC",
+  "author": "Rye Bread",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cs12242-mvu": "github:UPD-CS12-242/cs12242-mvu",
+    "effect": "^3.17.6"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.3"
+  }
+}
