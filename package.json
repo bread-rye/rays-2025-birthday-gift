@@ -23,11 +23,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "cs12242-mvu": "github:UPD-CS12-242/cs12242-mvu",
-    "effect": "^3.17.6"
-  },
   "devDependencies": {
+    "browserify": "^17.0.1",
+    "staticrypt": "^3.5.4",
     "tsx": "^4.20.3"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.5.32",
+    "react": "^19.1.1",
+    "typescript": "^5.9.2"
   }
 }
